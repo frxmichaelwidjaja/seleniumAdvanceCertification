@@ -7,14 +7,15 @@ This repository contains a Java project aimed at solve the task for the Advanced
 - [Project Overview](#project-overview)
 - [Prerequisites](#prerequisites)
 - [Setup](#setup)
-- [Usage](#usage)
+- [Running the Tests](#running-the-tests)
 - [Project Structure](#project-structure)
 - [Contributing](#contributing)
 - [License](#license)
+- [Contact](#contact)
 
 ## Project Overview
 
-This project demonstrates advanced Selenium WebDriver automation techniques using JUnit and Java 8. It covers given test scenario:
+### Test Scenario
 
 1. Navigate to https://www.lambdatest.com/.
 2. Perform an explicit wait till the time all the elements in the DOM
@@ -55,3 +56,11 @@ Before you begin, ensure you have the following prerequisites:
 ## How to run the test
 
 You could run the test via "mvn clean verify" or by run the test folder directly.
+
+## License
+This framework is available under the [MIT License](LICENSE).
+
+## Contact
+If you have any questions or need assistance, feel free to contact the project maintainers at frx.michael.widjaja@gmx.de or evagundam@gmail.com.
+
+Thank you for using this test automation framework! Happy testing!
